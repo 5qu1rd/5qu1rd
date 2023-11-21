@@ -3,7 +3,7 @@
 ## Sobre Mim
 - 👋 Oi, eu sou João.
 - 💻 Um entusiasta do sistema operacional Linux, com um amor especial pelo Void Linux.
-- 🐍 Desenvolvo software e estou sempre explorando novas bibliotecas e projetos interessantes.
+- ⌨️ Desenvolvo software e estou sempre explorando novas bibliotecas e projetos interessantes.
 - 🚀 Adoro automatizar tarefas e processos com **scripts shell**, tornando a vida mais eficiente.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao406&hide_progress=true&theme=dark)
